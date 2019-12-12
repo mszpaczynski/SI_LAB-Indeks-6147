@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 14 20:53:23 2019
 
-@author: Asaldor
+
+@author: MS
 """
 
 #!/usr/bin/python
